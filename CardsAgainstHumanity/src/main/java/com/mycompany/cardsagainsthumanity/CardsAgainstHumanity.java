@@ -15,8 +15,8 @@ import java.util.ArrayList;
 public class CardsAgainstHumanity {
     
     //Creamos las listas de cartas blancas y negras y el random
-    public final static String cartasNegras[] = {"Una cita no es un cita si no ", "Para animar a un niño huerfano nunca falla ", "Señoras y señores, soy el piloto, abrochense los cinturones que estamos muy cerca de ", "El ultimo nobel se dio por el descubrimiento de "};
-    public final static String cartasBlancas[] = {"Un golbin", "El poder de la amistad", "El clitoris", "Todos los chicos a los que me he cojido"};
+    public final static String cartasNegras[] = {"No hay cita sin ", "Para animar a los demas siempre ayuda ", "Estamos muy cerca de ", "Hace poco se descubrio "};
+    public final static String cartasBlancas[] = {"un duende", "el poder de la amistad", "un billete falso del monopoly", "muchos peluches"};
     public final static Scanner input=new Scanner(System.in);
     public final static int ELEMENTOS_CARTAS_NEGRAS= cartasNegras.length;
     public final static int ELEMENTOS_CARTAS_BLANCAS= cartasBlancas.length;
