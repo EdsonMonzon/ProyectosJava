@@ -4,35 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08646a1-1569-4790-bab3-0fb63782f6c1" name="Changes" comment="">
+    <list default="true" id="a08646a1-1569-4790-bab3-0fb63782f6c1" name="Changes" comment="Actualizacion 2.0 de superVueltasPoo">
       <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/JuegoDeTableroPlantilla.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/src/inputU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperVueltasPOO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Juego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jugador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inputU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacio23/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacio23/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacio23/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacio23/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacio23/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacio23/Programacio23.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacio23/datos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacio23/resumen.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacio23/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PongGame4/PongGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica/Practica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainPack/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainPack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Partida/Casilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Partida/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Partida/Juego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Partida/Jugador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardsAgainstHumanity/target/classes/com/mycompany/cardsagainsthumanity/CardsAgainstHumanity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardsAgainstHumanity/target/classes/com/mycompany/cardsagainsthumanity/CardsAgainstHumanity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Casilla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Juego.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jugador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inputU.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JuegoDeTablero/src/inputU.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,6 +47,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EdsonMonzon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EdsonMonzon/SuperVueltas.1.git&quot;,
+    &quot;accountId&quot;: &quot;0c8500f3-2231-49ca-abf6-943a1fdc560a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -57,20 +72,30 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/La meva unitat/ProgramacionProyectos/proyectosDeJava/SuperVueltas"
+    "last_opened_file_path": "C:/Users/dam1/Desktop/ABP-Pong-Grup4/PongGame6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Partida" />
+      <recent name="Menu" />
       <recent name="" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -82,136 +107,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710869191684</updated>
+      <workItem from="1713623181833" duration="30437000" />
     </task>
+    <task id="LOCAL-00001" summary="Actualizacion 2.0 de superVueltasPoo">
+      <option name="closed" value="true" />
+      <created>1712161681846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712161681846</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actualizacion 2.0 de superVueltasPoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion 2.0 de superVueltasPoo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>139</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>140</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>145</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>158</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>161</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
+          <url>file://$PROJECT_DIR$/src/MainPack/Main.java</url>
           <line>159</line>
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>168</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/src/MainPack/Main.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>167</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>166</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>173</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>175</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>183</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>184</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>185</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>190</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>191</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>205</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>210</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>214</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>217</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>227</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>99</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>106</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>108</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Juego.java</url>
-          <line>114</line>
-          <option name="timeStamp" value="38" />
+          <url>file://$PROJECT_DIR$/src/MainPack/Main.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
