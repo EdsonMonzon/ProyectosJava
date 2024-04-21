@@ -4,10 +4,15 @@ import Partida.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        presentaMenu();
+    }
+
+    public static void presentaMenu(){
         // Menú de opciones para el usuario
         System.out.println("""
                 Bienvenido a SuperVueltas, elije una opcion
@@ -93,12 +98,26 @@ public class Main {
     public static void leerPartida(String archivo){
         Scanner sc = null;
         File f = new File(archivo);
+        int tamañoMapa=1;
+        int numJugadores = 2;
 
         try {
             sc = new Scanner(f);
             // Leer el tamaño del tablero y el número de jugadores
-            int tamañoMapa = sc.nextInt();
-            int numJugadores = sc.nextInt();
+            try {
+                tamañoMapa = sc.nextInt();
+            }catch (NoSuchElementException e){
+                System.out.println("No se pudo leer el tamaño del mapa, posicion [1, 1]");
+                presentaMenu();
+            }
+
+            try {
+                numJugadores = sc.nextInt();
+            }catch (NoSuchElementException e){
+                System.out.println("No se pudo leer el numeroo de jugadores, posicion [1, 2]");
+                presentaMenu();
+            }
+
             int[] posicionesJugadores = new int[numJugadores];
             int[][] mapaCamino = new int[tamañoMapa][tamañoMapa];
             int[][] mapaValores = new int[tamañoMapa][tamañoMapa];
@@ -106,31 +125,56 @@ public class Main {
 
             // Leer las posiciones iniciales de los jugadores
             for(int i = 0; i < numJugadores; i++) {
-                posicionesJugadores[i] = sc.nextInt();
+                try {
+                    posicionesJugadores[i] = sc.nextInt();
+                }catch (NoSuchElementException e) {
+                    System.out.println("No se pudo leer la posicion de los jugadores, posicion [1, 3...]");
+                    presentaMenu();
+                }
             }
 
             sc.nextLine();
 
+            try {
                 String linea = sc.nextLine(); // Lee la línea completa
                 Scanner lineaScanner = new Scanner(linea); // Crea un nuevo scanner para procesar la línea
                 while (lineaScanner.hasNextInt()) {
                     casillasReveladas.add(lineaScanner.nextInt()); // Agrega los enteros a la lista
                 }
                 lineaScanner.close(); // Cierra el scanner de la línea para liberar recursos
-
-            // Leer el mapa de camino y los valores de las casillas
-            for(int i = 0; i < tamañoMapa; i++) {
-                for(int j = 0; j < tamañoMapa; j++) {
-                    mapaCamino[i][j] = sc.nextInt();
-                }
-                sc.nextLine();
+            }catch (NoSuchElementException e) {
+                System.out.println("No se pudo leer las casillas reveladas, posicion [2, ...]");
+                presentaMenu();
             }
 
-            for(int i = 0; i < tamañoMapa; i++) {
-                for(int j = 0; j < tamañoMapa; j++) {
-                    mapaValores[i][j] = sc.nextInt();
+            try {
+                // Leer el mapa de camino y los valores de las casillas
+                for (int i = 0; i < tamañoMapa; i++) {
+                    for (int j = 0; j < tamañoMapa; j++) {
+                        mapaCamino[i][j] = sc.nextInt();
+                    }
+                    sc.nextLine();
                 }
-                sc.nextLine();
+            }catch (NoSuchElementException e) {
+                System.out.println("No se pudo leer el mapa que indica el camino a seguir, posicion[Primera representacion del mapa]");
+                presentaMenu();
+            }
+
+            try {
+                for (int i = 0; i < tamañoMapa; i++) {
+                    for (int j = 0; j < tamañoMapa; j++) {
+                        mapaValores[i][j] = sc.nextInt();
+                    }
+                    try {
+                        sc.nextLine();
+                    }catch (NoSuchElementException e){
+                        System.out.println("Error al leer el mapa, no olvides dejar una ultima linea vacia al final del documento");
+                        presentaMenu();
+                    }
+                }
+            }catch (NullPointerException e) {
+                System.out.println("No se pudo leer el mapa que indica el camino a seguir, posicion[Segunda representacion del mapa]");
+                presentaMenu();
             }
 
             sc.close(); // Cerrar el Scanner después de leer los datos
@@ -145,6 +189,7 @@ public class Main {
                 char ficha = sc.next().charAt(0);
                 partida.listaJugadores[i] = new Jugador(ficha, i, posicionesJugadores[i], partida);
             }
+            partida.setTamañoCamino(ultimoCuadro(mapaCamino));
 
             // Construir el tablero de juego
             int buscador = 1;
@@ -154,6 +199,7 @@ public class Main {
 
                         if (mapaCamino[i][j] == buscador) {
                             partida.tablero[i][j] = new Casilla(i, j, mapaValores[i][j], partida);
+                            partida.tablero[i][j].setNumero(buscador);
 
                             for(Jugador juga:partida.listaJugadores){
                                 if(juga.getNumero()==buscador){
@@ -174,7 +220,7 @@ public class Main {
                     }
                 }
             }
-            partida.asignarNumeroCasillas();
+            //partida.asignarNumeroCasillas();
 
             sc=new Scanner(System.in);
 

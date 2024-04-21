@@ -35,6 +35,10 @@ public class Juego {
         return numeroJugadores;
     }
 
+    public void setTamañoCamino(int tamañoCamino) {
+        this.tamañoCamino = tamañoCamino;
+    }
+
     // Método para generar el tablero del juego
     public void generarTablero() {
 
