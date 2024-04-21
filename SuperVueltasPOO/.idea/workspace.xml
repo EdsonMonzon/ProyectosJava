@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08646a1-1569-4790-bab3-0fb63782f6c1" name="Changes" comment="Actualizacion, cargar y guardar partida implementado&#10;&#10;Mejora de orden &#10;&#10;To do: Ingresar mapas personalizados">
+    <list default="true" id="a08646a1-1569-4790-bab3-0fb63782f6c1" name="Changes" comment="Actualizacion, mapas personalizados&#10;&#10;To do: Entorno grafico y modo competitivo">
       <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/.idea/modules.xml" afterDir="false" />
@@ -14,8 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../Practica/Practica.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CardsAgainstHumanity/target/classes/com/mycompany/cardsagainsthumanity/CardsAgainstHumanity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardsAgainstHumanity/target/classes/com/mycompany/cardsagainsthumanity/CardsAgainstHumanity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainPack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainPack/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Partida/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Partida/Juego.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inputU.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JuegoDeTablero/src/inputU.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1710869191684</updated>
       <workItem from="1713623181833" duration="30560000" />
-      <workItem from="1713703708238" duration="3296000" />
+      <workItem from="1713703708238" duration="3361000" />
+      <workItem from="1713707155716" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="Actualizacion 2.0 de superVueltasPoo">
       <option name="closed" value="true" />
@@ -117,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713658235940</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Actualizacion, mapas personalizados&#10;&#10;To do: Entorno grafico y modo competitivo">
+      <option name="closed" value="true" />
+      <created>1713707087758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713707087758</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actualizacion 2.0 de superVueltasPoo" />
     <MESSAGE value="Actualizacion, cargar y guardar partida implementado&#10;&#10;Mejora de orden &#10;&#10;To do: Ingresar mapas personalizados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion, cargar y guardar partida implementado&#10;&#10;Mejora de orden &#10;&#10;To do: Ingresar mapas personalizados" />
+    <MESSAGE value="Actualizacion, mapas personalizados&#10;&#10;To do: Entorno grafico y modo competitivo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion, mapas personalizados&#10;&#10;To do: Entorno grafico y modo competitivo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
