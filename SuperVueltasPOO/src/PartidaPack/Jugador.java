@@ -1,4 +1,4 @@
-package Partida;
+package PartidaPack;
 
 import java.util.Random;
 import java.util.Scanner;

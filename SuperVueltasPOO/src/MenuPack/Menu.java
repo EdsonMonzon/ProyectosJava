@@ -1,5 +1,5 @@
-package MainPack;
-import Partida.*;
+package MenuPack;
+import PartidaPack.*;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -7,12 +7,10 @@ import java.util.ArrayList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
-        presentaMenu();
-    }
+public class Menu {
 
     public static void presentaMenu(){
+
         // Menú de opciones para el usuario
         System.out.println("""
                 Bienvenido a SuperVueltas, elije una opcion

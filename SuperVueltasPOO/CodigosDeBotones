@@ -1,0 +1,33 @@
+Una lista de los id de cada boton al momento de recoger su imagen
+
+En la lista de fondos (getPantallasImg)
+
+1-> Pantalla de Inicio
+2-> Pantalla de Modos de Juegos
+3-> Pantalla de Partida Competitiva
+4-> Pantalla de Partida Personalizada
+5-> Pantalla de cargar una partida
+6-> Pantalla de Seleccion de Heroe
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+En la lista de botones (getBotonesNormales, Hover o Press)
+
+1-> Boton de flecha hacia "ATRAS"
+2-> Boton de "START" Pantalla de inicio
+3-> Boton de "SALIR" de Pantalla de Inicio
+4-> Boton de partida "COMPETITIVA" en la seleccion de modo de juego
+5-> Boton de partida "PERSONALIZADA" en la seleccion de modo de juego
+6-> Boton de "CARGAR" partida en la seleccion de modo de juego
+7-> Boton de "CARGAR partida 1"
+8-> Boton de "CARGAR partida 2"
+9-> Boton de "CARGAR partida 3"
+10-> Boton seleccionar "2 JUGADORES"
+11-> Boton seleccionar "3 JUGADORES"
+12-> Boton seleccionar "4 JUGADORES"
+
+En la seccion de heroes
+
+13-> Arquero
+14-> Banquero
+15-> Corredor
+16-> Paladin

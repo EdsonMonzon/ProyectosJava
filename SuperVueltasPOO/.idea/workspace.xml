@@ -12,8 +12,83 @@
       <change afterPath="$PROJECT_DIR$/../JuegoDeTablero/JuegoDeTableroPlantilla.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PongGame4/PongGame.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practica/Practica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodigosDeBotones" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/Boton2Jugadores_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/Boton3Jugadores_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/Boton4Jugadores_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/BotonAtras_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/BotonCargar1_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/BotonCargar2_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/BotonCargar3_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/BotonCargarPartida_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/BotonPartidaCompetitiva_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/BotonPartidaPersonalizada_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/BotonSalir_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesHover/BotonStart_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/Boton2Jugadores_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/Boton3Jugadores_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/Boton4Jugadores_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/BotonAtras_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/BotonCargar1_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/BotonCargar2_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/BotonCargar3_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/BotonCargarPartida_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/BotonPartidaCompetitiva_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/BotonPartidaPersonalizada_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/BotonSalir_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesNormales/BotonStart_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/Boton2Jugadores_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/Boton3Jugadores_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/Boton4Jugadores_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/BotonAtras_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/BotonCargar1_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/BotonCargar2_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/BotonCargar3_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/BotonCargarPartida_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/BotonPartidaCompetitiva_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/BotonPartidaPersonalizada_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/BotonSalir_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgBotones/imgBotonesPress/BotonStart_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgFondos/PantallaCargarPartida.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgFondos/PantallaInicio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgFondos/PantallaModosJuego.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgFondos/PantallaPartidaCompetitiva.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgFondos/PantallaPartidaPersonalizada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgFondos/PantallaSeleccionHeroe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesHover/HeroeArquero_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesHover/HeroeBanquero_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesHover/HeroeCorredor_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesHover/HeroePaladin_Hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesNormales/HeroeArquero_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesNormales/HeroeBanquero_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesNormales/HeroeCorredor_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesNormales/HeroePaladin_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesPress/HeroeArquero_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesPress/HeroeBanquero_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesPress/HeroeCorredor_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagenes/imgHeroes/imgHeroesPress/HeroePaladin_Press.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/BotonesImg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Layout/Boton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Layout/BotonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Layout/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Layout/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Pantallas/Pantalla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Pantallas/PantallaCargarPartida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Pantallas/PantallaInicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Pantallas/PantallaModoDeJuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Pantallas/PantallaPartidaCompetitiva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Pantallas/PantallaSeleccionHeroe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionPack/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CardsAgainstHumanity/target/classes/com/mycompany/cardsagainsthumanity/CardsAgainstHumanity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardsAgainstHumanity/target/classes/com/mycompany/cardsagainsthumanity/CardsAgainstHumanity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainPack/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuPack/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainPack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuPack/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Partida/Casilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartidaPack/Casilla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Partida/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartidaPack/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Partida/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartidaPack/Juego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Partida/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartidaPack/Jugador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inputU.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JuegoDeTablero/src/inputU.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +105,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -52,28 +129,42 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2dusEyhOIagoo0ck1yIMSaF3Sd3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dam1/Desktop/ABP-Pong-Grup4/PongGame6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Mi unidad/ProgramacionProyectos/proyectosDeJava/SuperVueltasPOO&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Mi unidad\ProgramacionProyectos\proyectosDeJava\SuperVueltasPOO\Imagenes\imgHeroes\imgHeroesPress" />
+      <recent name="G:\Mi unidad\ProgramacionProyectos\proyectosDeJava\SuperVueltasPOO\Imagenes\imgHeroes\imgHeroesNormales" />
+      <recent name="G:\Mi unidad\ProgramacionProyectos\proyectosDeJava\SuperVueltasPOO\Imagenes\imgHeroes\imgHeroesHover" />
+      <recent name="G:\Mi unidad\ProgramacionProyectos\proyectosDeJava\SuperVueltasPOO\Imagenes\imgBotones\imgBotonesPress" />
+      <recent name="G:\Mi unidad\ProgramacionProyectos\proyectosDeJava\SuperVueltasPOO\Imagenes\imgBotones\imgBotonesHover" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Partida" />
       <recent name="Menu" />
@@ -98,7 +189,18 @@
       <updated>1710869191684</updated>
       <workItem from="1713623181833" duration="30560000" />
       <workItem from="1713703708238" duration="3361000" />
-      <workItem from="1713707155716" duration="22000" />
+      <workItem from="1713707155716" duration="136000" />
+      <workItem from="1713726861465" duration="3158000" />
+      <workItem from="1713963461702" duration="93000" />
+      <workItem from="1713963575749" duration="5757000" />
+      <workItem from="1714052570923" duration="2161000" />
+      <workItem from="1714122842348" duration="2847000" />
+      <workItem from="1714136975250" duration="13717000" />
+      <workItem from="1714223610770" duration="11647000" />
+      <workItem from="1714476711231" duration="214000" />
+      <workItem from="1714936937931" duration="86000" />
+      <workItem from="1717063091836" duration="9521000" />
+      <workItem from="1719332690414" duration="16277000" />
     </task>
     <task id="LOCAL-00001" summary="Actualizacion 2.0 de superVueltasPoo">
       <option name="closed" value="true" />
@@ -124,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713707087758</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Actualizacion, mapas personalizados&#10;&#10;To do: Entorno grafico y modo competitivo">
+      <option name="closed" value="true" />
+      <created>1713707195309</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713707195309</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +252,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Actualizacion 2.0 de superVueltasPoo" />
     <MESSAGE value="Actualizacion, cargar y guardar partida implementado&#10;&#10;Mejora de orden &#10;&#10;To do: Ingresar mapas personalizados" />
     <MESSAGE value="Actualizacion, mapas personalizados&#10;&#10;To do: Entorno grafico y modo competitivo" />
@@ -151,18 +262,18 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainPack/Main.java</url>
-          <line>205</line>
+          <url>file://$PROJECT_DIR$/src/MenuPack/Menu.java</url>
+          <line>206</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainPack/Main.java</url>
-          <line>203</line>
+          <url>file://$PROJECT_DIR$/src/MenuPack/Menu.java</url>
+          <line>204</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainPack/Main.java</url>
-          <line>204</line>
+          <url>file://$PROJECT_DIR$/src/MenuPack/Menu.java</url>
+          <line>205</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>

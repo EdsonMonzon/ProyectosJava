@@ -1,4 +1,4 @@
-package Partida;
+package PartidaPack;
 
 import java.util.ArrayList;
 
